@@ -1,0 +1,7 @@
+{
+  "name": "Wellsoulix AI Companion",
+  "description": "An empathetic, AI-powered student companion for emotional support, academic focus, and career guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
